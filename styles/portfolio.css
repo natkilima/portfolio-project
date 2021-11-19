@@ -181,6 +181,11 @@ footer .social-links a:hover {
   background: var(--branding-color);
 }
 
+.nathalie-photo {
+  width: 425px;
+  height: auto;
+  padding: 15px;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
