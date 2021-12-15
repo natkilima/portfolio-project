@@ -1,12 +1,13 @@
 :root {
   --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --secondary-color: darkslategray;
   --heading-font-family: Playfair Display, serif;
   --default-font-family: Poppins, sans-serif;
 }
 
 body {
   font-family: var(--default-font-family);
+  background-color: darkslategray;
 }
 
 .films {
@@ -19,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: black;
+  color: white;
   font-family: var(--heading-font-family);
   font-weight: bold;
 }
